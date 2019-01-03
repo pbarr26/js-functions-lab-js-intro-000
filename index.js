@@ -13,5 +13,5 @@ function happyHolidayTo(Christmas, Jack)
 }
 
 function holidayCountdown(Christmas, 360)
-{return `It's ${360} days until ${Christmas}!`
+{return `It\'s ${360} days until ${Christmas}!`
 }
